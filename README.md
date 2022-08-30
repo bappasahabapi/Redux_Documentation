@@ -1,5 +1,10 @@
 # Redux_Documentation
 
+### Using Redux toolkit in new react project
+    npx create-react-app my-app --template redux
+###  An existing project
+    npm install @reduxjs/toolkit
+
 
 ## 1. Introduction to Redux
 
